@@ -1,0 +1,18 @@
+.sectionContainer {
+  /* margin-top: 60px; */
+  /* width: 1440px; */
+  /* height: 750px; */
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  padding: 50px;
+}
+
+
+
+.rightSection {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 20px;
+}
